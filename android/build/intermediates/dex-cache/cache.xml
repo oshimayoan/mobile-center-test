@@ -12,24 +12,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_025a8be4011ba32219818a8a11ddb198a24c69e4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ab2ab6be412dd18a46938ddfe9c2d0b7abe28e35.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
         jumboMode="false"
         optimize="true"
@@ -45,6 +27,105 @@
         revision="23.0.1"
         sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
         <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_6f860ef6a45199456320cf010b2b7abfec4fffdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center-analytics/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2ec2b4f102f0b053078a21c35de67070c85ebd80">
+        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/com.microsoft.azure.mobile-mobile-center-analytics-0.12.0_0f28850ac8feff90d6c37ef68da62614c744d206.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_a73c310a835187cf2809e0826415401e3d8d0d51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center/0.12.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a44c43ebc1fe6c6ca61f9df1e2b6f062d79f2e62">
+        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/com.microsoft.azure.mobile-mobile-center-0.12.0_ce6b5a09fe76e2f0cfc69d8ecd72196ca9da6ee7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_cdbd0cdbe2b4508b1a4e7f5dca444cb1a108cc4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_4db6b4fd79bcc7e228a078933011f8822baf5ed8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_080989bc4d65f58558f7ceef8308219bfc2988a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/exploded-aar/mobilecentertest/mobile-center-crashes/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d6bf2b54c256e923cc4037c2ebcaadc62f9ec425">
+        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/mobilecentertest-mobile-center-crashes-unspecified_03dd740bedfcdf2378a439acd44a2d20dc5d7fde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_0a3c06e135b0c4fd8a62ef1ec5c0a85fe590181f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/exploded-aar/mobilecentertest/mobile-center/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b8494e41407fd84e0d4eba2bb6eae7471bf996bd">
+        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/mobilecentertest-mobile-center-unspecified_1015c8fd251919a8c32defab7e43eedada1e8515.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_025a8be4011ba32219818a8a11ddb198a24c69e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_ab2ab6be412dd18a46938ddfe9c2d0b7abe28e35.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,21 +165,21 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile.react/mobile-center-react-native/0.9.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d26432b341c86121d435b4bd09a1413bf539e77f">
+        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/com.microsoft.azure.mobile.react-mobile-center-react-native-0.9.0_4a4b59fcff00ff43ae9ced33de722404f10c1604.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="576b5113887747a7592650ae14d980e1c57983c4">
         <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.2_a364e8403bc9c186beedb0c95354328fcc255d0e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
-        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_a73c310a835187cf2809e0826415401e3d8d0d51.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,30 +192,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jar="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/exploded-aar/mobilecentertest/mobile-center-analytics/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_cdbd0cdbe2b4508b1a4e7f5dca444cb1a108cc4f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
-        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_4db6b4fd79bcc7e228a078933011f8822baf5ed8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Me/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_080989bc4d65f58558f7ceef8308219bfc2988a9.jar" />
+        sha1="e2da0c4b6c96903690ec2fe3d8fcac4b2e05df2d">
+        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/mobilecentertest-mobile-center-analytics-unspecified_19aec2b15334f59656016cc4e7d16fa3bfdd56b5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -147,12 +210,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/libs/infer-annotations-4.0.jar"
+        jar="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/exploded-aar/com.microsoft.azure.mobile/mobile-center-crashes/0.12.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_0a3c06e135b0c4fd8a62ef1ec5c0a85fe590181f.jar" />
+        sha1="dac18f5d6af2cd9fb4a821b15ae6a85b4c32d57f">
+        <dex dex="/Users/Me/projects/mobile-center-test/android/app/build/intermediates/pre-dexed/debug/com.microsoft.azure.mobile-mobile-center-crashes-0.12.0_093d9fb3fec244ca91cd194b801745073a3a4b11.jar" />
     </item>
     <item
         is-multidex="false"
